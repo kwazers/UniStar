@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen)](https://developer.android.com)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-17-red)](https://openjdk.org/)
 
 **UniStar** — это высокопроизводительный VPN-клиент для Android, объединяющий мощь лучших сетевых протоколов. Благодаря гибкой системе цепочек прокси и продвинутой маршрутизации, приложение позволяет обходить самые строгие сетевые ограничения, сохраняя при этом приватность и высокую скорость.
 
