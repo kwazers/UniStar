@@ -361,3 +361,66 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Gradle build output
+.gradle/
+build/
+*/build/
+*/*/build/
+
+# Android Studio local properties
+local.properties
+keystore.properties
+
+# Generated files
+*.apk
+*.aab
+*.dex
+*.class
+gen/
+bin/
+
+# NDK build artifacts
+*.so
+!**/jniLibs/**/*.so   # сохранить .so в jniLibs
+*.dSYM/
+*.dSYM.dwarf/
+
+# CMake generated files
+.cxx/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# IDE files
+.idea/
+*.iml
+.idea_modules/
+*.iws
+
+# Keystore files (важно! не публиковать ключи)
+*.jks
+*.keystore
+*.pem
+*.crt
+*.key
+
+# Go build artifacts (для Xray, WireGuard)
+*.a
+*.test
+cov.out
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
