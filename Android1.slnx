@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/">
+    <File Path="tor.cpp" />
+  </Folder>
+  <Project Path="Android1.androidproj" Type="39e2626f-3545-4960-a6e8-258ad8476ce5">
+    <Deploy />
+  </Project>
+</Solution>
